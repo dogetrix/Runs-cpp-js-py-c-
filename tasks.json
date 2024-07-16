@@ -1,7 +1,7 @@
 [
   {
     "label": "run eiei",
-    "command": "C:\\Users\\Lohvi\\zed\\.config\\runfile.bat",
+    "command": "C:\\Users\\(yourname)\\zed\\.config\\runfile.bat",
     "env": {},
     "cwd": "$ZED_WORKTREE_ROOT",
     "use_new_terminal": false,
